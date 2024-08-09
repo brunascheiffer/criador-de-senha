@@ -6,12 +6,6 @@
   --fundo-senha:#00244D;
   --fundo-texto:#001E40;
   --borda:#0075FF;
-  --roboto:'Roboto', sans-serif;
-  --roboo-mono:'Roboto Mono', monospace
-  }
-
-  *{
-  font-weight:400;
   }
 body{
   color:var(--branco);
@@ -25,8 +19,4 @@ background-color: var(--cor-de-fundo;
         }
             .titulo-secundario{
                 font-size: 24px;
-                }
-                .conteudo-titulo{
-text-align: center;
-margin-top: 80px;
                 }
